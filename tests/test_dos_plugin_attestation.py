@@ -1,5 +1,6 @@
-from dos_plugin_attestation import AttestationVerifier, StubVerifier
 import pytest
+
+from dos_plugin_attestation import AttestationVerifier, StubVerifier
 
 
 def test_stub_matches_protocol_and_is_honest():
