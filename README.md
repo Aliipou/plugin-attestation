@@ -1,5 +1,7 @@
 # plugin-attestation
 
+**Live (graph):** [https://ali-plugin-attestation.vercel.app](https://ali-plugin-attestation.vercel.app)
+
 Remote-attestation / confidential-computing verifier seam for the Decision OS /
 AuthGate stack.
 
